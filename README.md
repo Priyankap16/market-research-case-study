@@ -22,4 +22,4 @@ Deliverable:
 - PDF report with findings, insights, and recommendations
 
 📄 Case Study PDF:
-(Upload the PDF here and link it)
+https://github.com/Priyankap16/market-research-case-study/blob/main/market-research.pdf.pdf
